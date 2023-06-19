@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+My name is Lowe and my goal is to be a fullstack developer by designing world class websites.
+
+- 📫 How to reach me: lowe.lowing@gmail.com
 <!--
 **CrazyLeaf69/CrazyLeaf69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
